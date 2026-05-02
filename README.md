@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dnzakizamani
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning in Politeknik Negeri Semarang
-- 💞️ I’m looking to collaborate on Developing Front End Web
+- 🌱 I’m currently work as Fullstack Developer
 - 📫 How to reach me : zakizamaniaza@gmail.com
 
 <!---
